@@ -3,7 +3,7 @@ I also minor in Physics where I took classes that required programming in Python
 
 
 I'm interested in pursuing a career in quantitative finance, but I am also open to becoming a freelance software developer.
-I'm relatively new to coding. My first time coding was about Summer 2020 where I had huge gaps since, but I'm quickly realizing my passion for it.
+I'm relatively new to coding. My first time coding was around Summer 2020. I've had huge gaps  but I'm quickly realizing my passion for it.
 
 
 I'm currently learning GUI applications in C++, as well as learning as many popular libraries such as Boost and STL.
