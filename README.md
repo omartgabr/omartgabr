@@ -1,5 +1,5 @@
 Hello all! My name is Omar Gabr and I am an undergraduate mathematics student interested in programming.
-I also minor in Physics where I took classes that require programming and simulating physical environments.
+I also minor in Physics where I took classes that required programming in Python and simulating physical environments.
 
 
 I'm interested in pursuing a career in quantitative finance, but I am also open to becoming a freelance software developer.
