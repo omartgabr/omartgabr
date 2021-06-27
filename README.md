@@ -6,7 +6,7 @@ I'm interested in pursuing a career in quantitative finance, but I am also open 
 I'm relatively new to coding. My first time coding was around Summer 2020. I've had huge gaps  but I'm quickly realizing my passion for it.
 
 
-I'm currently learning GUI applications in C++, as well as learning as many popular libraries such as Boost and STL.
+I'm currently learning GUI applications in C++, as well as many popular libraries such as Boost and STL.
 Additonally, I am also learning Python in some of my mathematics and physics courses that implement mathematical applications.
 
 
