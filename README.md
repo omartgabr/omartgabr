@@ -9,8 +9,6 @@ I'm relatively new to coding. My first time coding was around Summer 2020. I've 
 I'm currently learning GUI applications in C++, as well as many popular libraries such as Boost and STL.
 Additonally, I am also learning Python in some of my mathematics and physics courses that implement mathematical applications.
 
-Aside from programming, I am also interested in cybersecurity and information technology. I am currently studying to achieve the Comptia Security+ certification.
-
 I'm looking to collaborate with anyone who is willing to share feedback to my projects, or simply wanting to discuss the C++ or Python languages.
 My repository wil contain an array of different scaled projects that I work on from time to time.
 
