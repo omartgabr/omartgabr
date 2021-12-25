@@ -1,4 +1,4 @@
-Hello all! My name is Omar Gabr and I am an undergraduate mathematics student interested in programming.
+Hello all! My name is Omar Gabr and I am an undergraduate mathematics student interested in programming and financial mathematics.
 I also minor in Physics where I took classes that requires programming in Python and simulating physical environments.
 
 
