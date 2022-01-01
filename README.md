@@ -9,7 +9,7 @@ build my current skillset in becoming a quantitative developer.
 I started coding about 3 years ago in Python, and slowly worked my way towards C++. Now, I practice both and will soon learn
 to start integrating them in the same program. I also have been practicing R and SQL, but just a little less than the former two.
 
-I'm currently learning design patterns and advanced functionality in C++11/14/17 by building projects that can be found in my C++
+I'm currently learning design patterns and advanced functionality in C++14/17/20 by building projects that can be found in my C++
 and Python repositories.
 
 I'm looking to collaborate with anyone who is willing to share feedback to my projects, or simply wanting to discuss the C++ or Python languages.
