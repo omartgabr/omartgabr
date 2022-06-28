@@ -1,13 +1,13 @@
 Welcome!
 
-My name is Omar Gabr and I am an undergraduate senior mathematics student interested in programming and financial mathematics.
-I also minor in Physics where I took courses involving coding and simulating physical environments.
+My name is Omar Gabr and I am a graduate student studying data science and engineering.
+This profile exhibits my journey exploring the practical applications of machine learning algorithms and data engineering practices.
 
-I'm interested in pursuing a career in quantitative finance, and currently applying to MFE/MQF degree programs. I hope to
-build my current skillset in becoming a quantitative developer.
+I'm interested in pursuing a career in data science, but I am also open to doing research in improving machine learning algorithms such as
+dimensionality reduction techniques or deep learning.
 
-I started coding about 3 years ago in Python, and slowly worked my way towards C++. Now, I practice both and will soon learn
-to start integrating them in the same program. I also have been practicing R and SQL, but just a little less than the former two.
+I started my coding journey in 2016 with Python, and slowly worked my way towards C++ just a few months later. Now, I code using both, and hope to soon learn
+to start integrating them. Additionally, I also code with R for statistical analyses and SQL for database management.
 
 I'm currently learning design patterns and advanced functionality in C++14/17/20 by building projects that can be found in my C++
 and Python repositories, with a focus on quantitative finance applications.
