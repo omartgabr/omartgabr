@@ -9,9 +9,6 @@ dimensionality reduction techniques or deep learning.
 I started my coding journey in 2016 with Python, and slowly worked my way towards C++ just a few months later. Now, I code using both, and hope to soon learn
 to start integrating them. Additionally, I also code with R for statistical analyses and SQL for database management.
 
-I'm currently learning design patterns and advanced functionality in C++14/17/20 by building projects that can be found in my C++
-and Python repositories, with a focus on quantitative finance applications.
-
 I'm looking to collaborate with anyone who is willing to share feedback to my projects, or simply wanting to discuss the C++ or Python languages.
 My repository wil contain an array of different scaled projects that I work on from time to time.
 
