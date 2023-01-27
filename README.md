@@ -1,16 +1,9 @@
-Welcome!
+Welcome to my GitHub profile!
 
-My name is Omar Gabr and I am a graduate student studying data science and engineering.
-This profile exhibits my journey exploring the practical applications of machine learning algorithms and data engineering practices.
+My name is Omar Gabr and I am a graduate student studying data science and engineering. This profile showcases my journey exploring the practical applications of machine learning algorithms and data engineering practices through inspired projects and datasets.
 
-I'm interested in pursuing a career in data science, but I am also open to doing research in improving machine learning algorithms such as
-dimensionality reduction techniques or deep learning.
+As a machine learning enthusiast, I am interested in pursuing a career in data science, but I am also open to conducting research in improving machine learning algorithms in Big Data analytic tool and find improved solutions to some of the challenges facing Big Data.
 
-I started my coding journey in 2016 with Python, and slowly worked my way towards C++ just a few months later. Now, I code using both, and hope to soon learn
-to start integrating them. Additionally, I also code with R for statistical analyses and SQL for database management.
+I began my coding journey in 2016 with Python and later expanded my skills to include C++. Now, I code data science projects mainly using Python, and integrate many machine learning frameworks and database management systems to my work. I hope to soon work with Big Data analytical tools and perform advanced analyses with popular cloud platforms like Azure.
 
-I'm looking to collaborate with anyone who is willing to share feedback to my projects, or simply wanting to discuss the C++ or Python languages.
-My repository wil contain an array of different scaled projects that I work on from time to time.
-
-
-Feel free to reach me using any of my contact information on my profile! I look forward to speaking to any of you!
+Additionally, I also code R for statistical analyses and model planning. 
