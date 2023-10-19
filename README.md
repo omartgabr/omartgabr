@@ -2,6 +2,8 @@ Welcome to my GitHub profile!
 
 My name is Omar Gabr and I am a graduate student studying data science and engineering. This profile showcases my journey exploring the practical applications of machine learning algorithms and data engineering practices through inspired projects and datasets.
 
-As a machine learning enthusiast, I am interested in pursuing a career in data science, but I am also open to conducting research in improving machine learning algorithms in Big Data analytic tool and find improved solutions to some of the challenges facing Big Data.
+As a student with a deep interest in machine learning, I aspire to build a career in data science. Additionally, I am open to the possibility of engaging in research and industry challenges to enhance machine learning algorithms for Big Data analytics and addressing challenges in this domain.
 
-I have a strong interest in quantum machine learning and the potential of quantum computing to revolutionize the field of data science. Through my work with frameworks like Qiskit, I am actively learning about quantum algorithms, quantum hardware, and the latest advancements in the field of quantum computing.
+Within these repositories, you'll find a collection of projects that highlight my skills in data analysis, machine learning, and data engineering. These projects demonstrate my commitment to continuous learning and practical problem-solving.
+
+If you're a recruiter or someone passionate about machine learning engineering and data science, I welcome the opportunity to connect with you. Let's explore how we can contribute to the field of data and technology together.
