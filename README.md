@@ -1,9 +1,9 @@
-Welcome to my GitHub profile!
+# Welcome to Omar's GitHub Profile!
 
-My name is Omar Gabr and I am a graduate student studying data science and engineering. This profile showcases my journey exploring the practical applications of machine learning algorithms and data engineering practices through inspired projects and datasets.
+My name is Omar Gabr and I have a passion for _quantitative_ and _computational finance_.
 
-As a student with a deep interest in machine learning, I aspire to build a career in data science. Additionally, I am open to the possibility of engaging in research and industry challenges to enhance machine learning algorithms for Big Data analytics and addressing challenges in this domain.
+I received my B.S. in Mathematics with a minor in Physics from CUNY Baruch College in May 2022 and my M.S. in Data Science and Engineering from CUNY City College of New York in January 2025.
 
-Within these repositories, you'll find a collection of projects that highlight my skills in data analysis, machine learning, and data engineering. These projects demonstrate my commitment to continuous learning and practical problem-solving.
+This profile showcases my project work at the intersection of quantitative finance, data science, and machine learning.
 
-If you're a recruiter or someone passionate about machine learning engineering and data science, I welcome the opportunity to connect with you. Let's explore how we can contribute to the field of data and technology together.
+**I am actively searching for jobs**, so if you're a recruiter seeking a self-starter who thrives on new challenges, collaborates efficiently with either individuals or teams, and delivers measurable results, then we should connect!
